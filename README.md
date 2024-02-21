@@ -1,16 +1,18 @@
-# note_design
+# Tascut
 
-A new Flutter project.
+![mockup](assets/mockup.png)
 
-## Getting Started
+## Overview 
+This is a small portion ui desgin of a large note app. The user can checkout all the available tasks and also see which one of the tasks is done. User also has a timer page where he/she could set a dynamic timer to countdown and set all the tasks according to it. One of the other features is that the user can also have a view of the specific day in a month and all the tasks in it.
 
-This project is a starting point for a Flutter application.
+## Features
+- **Main Activity** : Works just like a note app to edit or add a task with time, type, subtitle and more.
+- **Additional Features**: Countdown timer, A calendar for all the days of month, A dynamic timeline during out the day.
 
-A few resources to get you started if this is your first Flutter project:
+## Dependancies 
+  - circular_seek_bar
+  - dashed_circular_progress_bar
+  - step_progress_indicator
+  - flutter_slidable
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 
